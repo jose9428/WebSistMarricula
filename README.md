@@ -1,6 +1,7 @@
 # WebSistMarricula
 Proyecto con JSP, Servlet - Sistema de registro de matriculas
 
+![Captura de pantalla (1235)](https://user-images.githubusercontent.com/76067475/110004093-0c42ee00-7ce5-11eb-9fd3-4e56ec98314d.png)
 
 ![Captura de pantalla (1236)](https://user-images.githubusercontent.com/76067475/110003216-2b8d4b80-7ce4-11eb-83c8-204675d7bf42.png)
 ![Captura de pantalla (1237)](https://user-images.githubusercontent.com/76067475/110003223-2cbe7880-7ce4-11eb-95be-ac1d82536428.png)
